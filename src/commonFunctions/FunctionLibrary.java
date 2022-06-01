@@ -122,6 +122,12 @@ public class FunctionLibrary extends AppUtil{
 			return false;
 		}
 	}
+	public static void addition()
+	{
+		int a=23,b=9,c;
+		c=a+b;
+		System.out.println(c);
+	}
 }
 
 
